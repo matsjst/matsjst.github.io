@@ -1,0 +1,24 @@
+name: "Mats Julius Stensrud"
+output_dir: "."
+navbar:
+  title: "Mats Julius Stensrud"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Other interests"
+      href: other.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/matsjst
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/mats_julius
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

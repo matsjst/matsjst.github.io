@@ -1,0 +1,7 @@
+---
+title: "Teaching"
+---
+
+In 2019, I was Miguel Hernan's teaching assistant in HST 128 Clinical epidemiology for MD students at Harvard Medical School. That was a lot of fun. 
+
+Previously I have taught introductory courses in statistics in the MD program at the University of Oslo, and PhD-courses in causal inference.
