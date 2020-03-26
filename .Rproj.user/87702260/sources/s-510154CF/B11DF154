@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585152833494.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3963983847",
+    "id" : "B11DF154",
+    "lastKnownWriteTime" : 1583244111,
+    "last_content_update" : 1583244111,
+    "path" : "~/Documents/GitHub/matsjst.github.io/research.Rmd",
+    "project_path" : "research.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
