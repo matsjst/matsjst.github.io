@@ -6,7 +6,7 @@
 
 <img src="cvbildeMJS.jpg" style="width:30%; border:0.1px solid; margin-right: 30 px; ; margin-left: 30 px" align="center">
 
-I am a causal inference enthusiast. My research focuses on methods for causal inference in medicine. I am particularly interested in settings with exposures and outcomes that depend on time, that is, longitudinal data.
+I am a causal inference enthusiast. My research focuses on methods for causal inference in medicine. I am particularly interested in settings with exposures and outcomes that depend on time, that is, longitudinal data. 
 
 I am privileged to work with [Miguel Hernán](https://www.hsph.harvard.edu/miguel-hernan/) and other excellent researchers at [Harvard School of Public Health](https://www.hsph.harvard.edu/) as a Kolokotrones research fellow. Before I came to Harvard as a Fulbright Research Scholar in 2018, I worked as a resident in internal medicine, and I also had the pleasure of being a part-time postdoctoral researcher under supervision of [Kjetil Røysland](https://www.med.uio.no/imb/english/people/aca/roysland/) and [Odd Aalen](https://www.med.uio.no/imb/english/people/aca/oaalen/) at the [University of Oslo](/https://www.uio.no/english/).
 
