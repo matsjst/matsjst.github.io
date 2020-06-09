@@ -9,6 +9,8 @@ In 2020 I was supposed to attend the ENAR 2020 Spring Meeting (ENAR, Nashville),
 
 Recent talks:
 
+2020 [European Causal Inference Meeting](https://www.eurocim2020.com/), Online Conference (Contributed)
+
 2020 [Causal Inference Seminar] Boston University, Boston, USA (Invited)
 
 2019 [Mathematical Colloquium](https://www.uni-ulm.de/en/mawi/faculty/faculty/recurring-events/mathematical-colloquium/) Ulm, Germany (Invited)
