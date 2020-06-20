@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1736232673",
+    "hash" : "0",
     "id" : "7E10C6B3",
-    "lastKnownWriteTime" : 1583244111,
-    "last_content_update" : 1583244111,
+    "lastKnownWriteTime" : 1592304861,
+    "last_content_update" : 1592304861,
     "path" : "~/Documents/GitHub/matsjst.github.io/other.Rmd",
     "project_path" : "other.Rmd",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

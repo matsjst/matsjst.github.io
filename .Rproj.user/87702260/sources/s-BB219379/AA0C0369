@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "712717179",
+    "hash" : "0",
     "id" : "AA0C0369",
-    "lastKnownWriteTime" : 1583244111,
-    "last_content_update" : 1583244111,
+    "lastKnownWriteTime" : 1592310570,
+    "last_content_update" : 1592310570,
     "path" : "~/Documents/GitHub/matsjst.github.io/contact.Rmd",
     "project_path" : "contact.Rmd",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
