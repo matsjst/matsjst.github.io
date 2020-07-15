@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-In 2021, I will teach a semester course on **Causal Inference and Randomization** and **Biostatistics** at EPFL for mathematics students. 
+In 2021, I will teach a semester course on **Randomization and Causal Inference** (3rd year Bsc in Mathematics) and **Biostatistics** (Msc in Mathematics) at EPFL. 
 
 In 2019 and 2020, I was Miguel Hernan's teaching assistant in HT194 Clinical epidemiology at Harvard Medical School. I also was Jamie Robins's teaching assistant in the advanced epidemiologic methods course EPI207 at Harvard School of Public Health. 
 
