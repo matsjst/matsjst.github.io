@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2588245602",
     "id" : "7E10C6B3",
-    "lastKnownWriteTime" : 1592304861,
-    "last_content_update" : 1592304861,
+    "lastKnownWriteTime" : 1595924871,
+    "last_content_update" : 1595924871720,
     "path" : "~/Documents/GitHub/matsjst.github.io/other.Rmd",
     "project_path" : "other.Rmd",
     "properties" : {
-        "cursorPosition" : "0,0",
+        "cursorPosition" : "4,122",
         "scrollLine" : "0"
     },
     "read_only" : false,

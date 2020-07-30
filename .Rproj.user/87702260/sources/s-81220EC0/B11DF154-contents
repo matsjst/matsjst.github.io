@@ -2,6 +2,6 @@
 title: "My research"
 ---
 
-My research focuses on methods for causal inference in medicine. I am particularly interested in settings with exposures and outcomes that depend on time. Such scenarios are ubiquitous: diseases develop over time, environmental exposures change over time, and treatment regimens are given for certain lengths of time. Large data with longitudinal measurements are also increasingly available. To maximize the use of these data, I believe that formal causal inference methods are crucial: these methods are not technical curiosities, but necessary tools in the era of evidence based medicine.
+My research focuses on methods for causal inference. I am particularly interested in settings with exposures and outcomes that depend on time. Such scenarios are ubiquitous: diseases develop over time, environmental exposures change over time, and treatment regimens are given for certain lengths of time. Large data with longitudinal measurements are also increasingly available. To maximize the use of these data, I believe that formal causal inference methods are crucial: these methods are not technical curiosities, but necessary tools.
 
 An updated list of my publications is found on [Google scholar](https://scholar.google.com/citations?user=glLnrkUAAAAJ&hl=en&oi=ao).
