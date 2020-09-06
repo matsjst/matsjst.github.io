@@ -2,7 +2,6 @@
 title: "Email"
 ---
 
-Harvard email: mstensrud (at) hsph (dot) harvard (dot) edu
-
+EPFL email: mats (dot) stensrud (at) epfl (dot) ch
 
 

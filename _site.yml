@@ -11,6 +11,10 @@ navbar:
       href: teaching.html
     - text: "Other interests"
       href: other.html
+    - text: "Research group"
+      href: group.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
