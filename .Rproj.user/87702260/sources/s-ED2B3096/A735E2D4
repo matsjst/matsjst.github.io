@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602711086382.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3985352962",
+    "id" : "A735E2D4",
+    "lastKnownWriteTime" : 1602711352,
+    "last_content_update" : 1602711352601,
+    "path" : "~/Documents/GitHub/matsjst.github.io/talks.Rmd",
+    "project_path" : "talks.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,30",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
