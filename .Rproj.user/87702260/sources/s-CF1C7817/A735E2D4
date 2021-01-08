@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3985352962",
+    "hash" : "1115552037",
     "id" : "A735E2D4",
-    "lastKnownWriteTime" : 1602711352,
-    "last_content_update" : 1602711352601,
+    "lastKnownWriteTime" : 1610110190,
+    "last_content_update" : 1610110190950,
     "path" : "~/Documents/GitHub/matsjst.github.io/talks.Rmd",
     "project_path" : "talks.Rmd",
     "properties" : {
-        "cursorPosition" : "17,30",
-        "scrollLine" : "1"
+        "cursorPosition" : "12,37",
+        "scrollLine" : "3"
     },
     "read_only" : false,
     "read_only_alternatives" : [
