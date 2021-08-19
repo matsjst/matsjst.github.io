@@ -4,9 +4,20 @@ title: "Academic talks"
 
 To come: 
 
+2021 Oslo Biostatistics Seminar, August 31st, Oslo, Norway (Invited)
+
+2021 CMStatistics, December 18th-20st, London, UK (Invited)
+
+
 2021 [Swiss Statistics Seminar](https://www.imsv.unibe.ch/research/talks/swiss_statistics_seminars_live/index_eng.html), Bern (Invited)
 
 Recent talks:
+
+2021 JGH Epidemiology Seminar 2021, Montreal, Canada (Invited)
+
+2021 Biometrischen Kolloquium 2021, Germany (Invited)
+
+2021 Society of Epidemiologic Research}, San Diego, USA (Contributed)
 
 2020 CMStatistics, December 19th-21st, London, UK (Invited)
 
