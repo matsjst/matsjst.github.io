@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634062409968.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4143159669",
+    "id" : "9D649DD8",
+    "lastKnownWriteTime" : 1634062672,
+    "last_content_update" : 1634062672646,
+    "path" : "~/Documents/GitHub/matsjst.github.io/group.Rmd",
+    "project_path" : "group.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
