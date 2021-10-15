@@ -4,10 +4,9 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Welcome to my website. Here is my research group at EPFL (October 2021): 
-<img src="ChairOfBiostatisticsPicture2021.jpg" style="width:70%; border:0.1px solid; margin-right: 70 px; ; margin-left: 70 px" align="center">
+Welcome to my website.
 
-From left: myself, Pål Ryalen, Matias Janvin, Carole Weissenberger, Aaron Sarvet and Amit Sawant.
+<img src="EPFL_2021_Mats_Julius_Stensrud_Portrait.jpeg" style="width:30%; border:0.1px solid; margin-right: 50 px; ; margin-left: 50 px" align="center">
 
 
 I am a [tenure-track assistant professor of statistics](https://people.epfl.ch/mats.stensrud/?lang=en) [at the Department of Mathematics](https://www.epfl.ch/schools/sb/research/math/), [EPFL](https://www.epfl.ch/schools/sb/research/math/research/statistics/). My research focuses on methods for causal inference. I am particularly interested in settings with exposures and outcomes that depend on time, that is, longitudinal data. Many of my works are inspired by applications in (bio)medicine. 
