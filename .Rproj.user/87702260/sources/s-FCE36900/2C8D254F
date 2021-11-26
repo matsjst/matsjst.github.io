@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634932821353.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2C8D254F",
+    "lastKnownWriteTime" : 1634932828,
+    "last_content_update" : 1634932828418,
+    "path" : "~/Documents/GitHub/matsjst.github.io/teaching.Rmd",
+    "project_path" : "teaching.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,147",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
