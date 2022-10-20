@@ -4,8 +4,9 @@ title: "Teaching"
 
 **Teaching at EPFL:**
 
-I teach two full semester courses at EPFL, **Randomization and Causal Inference** (3rd year Bsc in Mathematics) and **Biostatistics** (1st year Msc in Mathematics). Both courses are taught in the Spring semester.  
+I teach two full semester courses for mathematics students at EPFL, **Randomization and Causal Inference** (3rd year Bsc in Mathematics) and **Biostatistics** (1st year Msc in Mathematics). Both courses are taught in the Spring semester.  
 
+In September 2022 I also started teaching a course called **Causal Thinking**, which is intended for 3rd year Bsc and 1st year Msc student with different backgrounds, such as computer science, physics, biology and engineering. 
 
 **Previous teaching:**
 

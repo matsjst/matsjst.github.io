@@ -13,7 +13,8 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -58,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -82,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -234,7 +243,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -298,11 +307,37 @@ $(document).ready(function () {
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p>Welcome to my website.</p>
 <p><img src="EPFL_2021_Mats_Julius_Stensrud_Portrait.jpeg" style="width:30%; border:0.1px solid; margin-right: 50 px; ; margin-left: 50 px" align="center"></p>
-<p>I am a <a href="https://people.epfl.ch/mats.stensrud/?lang=en">tenure-track assistant professor of statistics</a> <a href="https://www.epfl.ch/schools/sb/research/math/">at the Department of Mathematics</a>, <a href="https://www.epfl.ch/schools/sb/research/math/research/statistics/">EPFL</a>. My research focuses on methods for causal inference. I am particularly interested in settings with exposures and outcomes that depend on time, that is, longitudinal data. Many of my works are inspired by applications in (bio)medicine.</p>
-<p>Before I came to EPFL, I was privileged to work with <a href="https://www.hsph.harvard.edu/miguel-hernan/">Miguel Hernán</a> and other excellent researchers at <a href="https://www.hsph.harvard.edu/">Harvard School of Public Health</a> as a Kolokotrones research fellow and Fulbright Research Scholar. I also had the pleasure of being a part-time postdoctoral researcher under supervision of <a href="https://www.med.uio.no/imb/english/people/aca/roysland/">Kjetil Røysland</a> and <a href="https://www.med.uio.no/imb/english/people/aca/oaalen/">Odd Aalen</a> at the <a href="/https://www.uio.no/english/">University of Oslo</a>. Before I became a full time academic, I had a short career as resident doctor in internal medicine.</p>
-<p>I received my MD, Dr.Philos in Neuroscience and BSc in Mathematics from the <a href="/https://www.uio.no/english/">University of Oslo</a>. I also hold a Msc in Statistics from the <a href="http://www.ox.ac.uk/">University of Oxford</a>.</p>
+<p>I am a <a
+href="https://people.epfl.ch/mats.stensrud/?lang=en">tenure-track
+assistant professor of biostatistics</a> <a
+href="https://www.epfl.ch/schools/sb/research/math/">in the Department
+of Mathematics</a>, <a
+href="https://www.epfl.ch/schools/sb/research/math/research/statistics/">EPFL</a>.
+My research focuses on methods for causal inference. I am particularly
+interested in settings with exposures and outcomes that depend on time,
+that is, longitudinal data. Many of my works are inspired by
+applications in (bio)medicine.</p>
+<p>Before I came to EPFL, I was privileged to work with <a
+href="https://www.hsph.harvard.edu/miguel-hernan/">Miguel Hernán</a> and
+other excellent researchers at <a
+href="https://www.hsph.harvard.edu/">Harvard School of Public Health</a>
+as a Kolokotrones research fellow and Fulbright Research Scholar. I also
+had the pleasure of being a part-time postdoctoral researcher under
+supervision of <a
+href="https://www.med.uio.no/imb/english/people/aca/roysland/">Kjetil
+Røysland</a> and <a
+href="https://www.med.uio.no/imb/english/people/aca/oaalen/">Odd
+Aalen</a> at the <a href="/https://www.uio.no/english/">University of
+Oslo</a>. Before I became a full time academic, I had a short career as
+resident doctor in internal medicine.</p>
+<p>I received my MD, Dr.Philos in Neuroscience and BSc in Mathematics
+from the <a href="/https://www.uio.no/english/">University of Oslo</a>.
+I also hold a Msc in Statistics from the <a
+href="http://www.ox.ac.uk/">University of Oxford</a>.</p>
 <p>My CV is available <a href="CV_Stensrud.pdf">here</a>.</p>
-<p>I am currently <strong>looking for a postdoc with expertise in statistics and causal inference</strong>. If you are interested, don’t hesitate to contact me by <a href="contact.html">email</a>.</p>
+<p>I am currently <strong>looking for a postdoc with expertise in
+statistics and causal inference</strong>. If you are interested, don’t
+hesitate to contact me by <a href="contact.html">email</a>.</p>
 
 
 
