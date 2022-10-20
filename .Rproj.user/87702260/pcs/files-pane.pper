@@ -1,9 +1,9 @@
 {
-    "path" : "~/Documents/GitHub/matsjst.github.io",
-    "sortOrder" : [
+    "path": "~/Documents/GitHub/matsjst.github.io",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
