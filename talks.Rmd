@@ -9,10 +9,10 @@ To come:
 
 2023 [European Causal Inference Meeting](https://www.eurocim.org/program.html), 18-21 April, Oslo, Norway (Invited course holder and contributed talk)
 
+
 Previous talks:
 
 2023 [TAU Statistics Seminar](https://sites.google.com/view/taustatseminar/home), 3 January, Tel Aviv, Israel (Invited course holder and contributed talk)
-Recent talks:
 
 2023 [Berlin Epidemiological Methods Colloquium, Germany](https://www.ebpi.uzh.ch/en/aboutus/activities/ebpi-colloquia.html), 11th January, Berlin, Germany (Invited)
 
