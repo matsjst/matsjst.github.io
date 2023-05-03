@@ -4,13 +4,25 @@ title: "Academic talks"
 
 To come: 
 
+2023 [CEN2023 Conference](https://cen2023.github.io/home/), 3rd-7th September, Basel, Switzerland (talk)
+
+
+2023 [European Meeting of Statisticians (EMS)](https://ems2023.org//), 3rd-7th July, Warsaw, Poland (talk)
+
+
+2023 [Society for Epidemiologic Research](https://epiresearch.org/annual-meeting/2023-meeting/), 13th-16th June, Portland, USA (workshop and two talks)
+
+
+2023 [American Causal Inference Meeting](https://sci-info.org/annual-meeting/), Austin, Canada (Contributed)
+
+
+Previous talks:
+
 
 2023 [YES Causal Inference](https://bemcolloquium.com/meetings-calendar/), 13th March, Eindhoven, Netherlands (Invited)
 
 2023 [European Causal Inference Meeting](https://www.eurocim.org/program.html), 18-21 April, Oslo, Norway (Invited course holder and contributed talk)
 
-
-Previous talks:
 
 2023 [TAU Statistics Seminar](https://sites.google.com/view/taustatseminar/home), 3 January, Tel Aviv, Israel (Invited course holder and contributed talk)
 
