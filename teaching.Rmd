@@ -8,6 +8,8 @@ I teach two full semester courses for mathematics students at EPFL, **Randomizat
 
 In September 2022 I also started teaching a course called **Causal Thinking**, which is intended for 3rd year Bsc and 1st year Msc student with different backgrounds, such as computer science, physics, biology and engineering. 
 
+I also teach a doctor course on advanced causal inference methods at EPFL. This year we will study interference. 
+
 **Previous teaching:**
 
 In 2019 and 2020, I was Miguel Hernan's teaching assistant in HT194 Clinical epidemiology at Harvard Medical School. I also was Jamie Robins's teaching assistant in the advanced epidemiologic methods course EPI207 at Harvard School of Public Health. 

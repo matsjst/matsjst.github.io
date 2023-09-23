@@ -3,23 +3,23 @@
     "path": "~/Documents/GitHub/matsjst.github.io/teaching.Rmd",
     "project_path": "teaching.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "580618084",
     "contents": "",
     "dirty": false,
     "created": 1634932821353.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
-        "cursorPosition": "8,227",
-        "scrollLine": "0",
+        "cursorPosition": "10,73",
+        "scrollLine": "4",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666127397,
+    "lastKnownWriteTime": 1695476237,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666127397,
+    "last_content_update": 1695476237726,
     "read_only": false,
     "read_only_alternatives": []
 }
