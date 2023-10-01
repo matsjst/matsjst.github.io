@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/matsjst.github.io (OLDER)/other.Rmd",
     "project_path": "other.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "436424931",
     "contents": "",
     "dirty": false,
     "created": 1695477655765.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,0",
+        "cursorPosition": "9,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1695477662,
+    "lastKnownWriteTime": 1696175410,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695477662828,
+    "last_content_update": 1696175410111,
     "read_only": false,
     "read_only_alternatives": []
 }
