@@ -2,16 +2,27 @@
 title: "Members of the research group"
 ---
 
-Postdoctoral Research Fellows: Aaron Sarvet (PhD, Harvard University) and Elise Dumas (PhD, Institut Curie operated by Université Paris-Sud, starting September 1st 2023)
-
 
 Current PhD students: Amit Sawant (Msc, University of Michigan), Lorenzo Gasparollo (Bsc and Msc, Padova University), Julien Laurendeau (BSc EPFL, MSc ETH), Gellert Perenyi (MSc ETH)
 
 Previous PhD student: Matias Janvin (Bsc and Msc, Oxford University), successfully defended his thesis in November 2023
 
+Postdoctoral Research Fellows: Elise Dumas (PhD, Institut Curie operated by Université Paris-Sud, starting September 1st 2023)
+
+
+Previous Research Fellows: Aaron Sarvet (Assistant Professor, University of Massachusetts Amherst), Pal Ryalen (Senior Scientist, University of Oslo), Anders Huitfeldt (MD, Oslo University Hospital) 
+
 
 Secretary: [Carole Weissenberger](https://people.epfl.ch/carole.weissenberger) 
 
+
+<img src="ChairOfBiostatisticsPicture2024.jpg" style="width:70%; border:0.1px solid; margin-right: 70 px; ; margin-left: 70 px" align="center">
+
+From left (2024):Amit Sawant, me, Gellert Perenyi, Lorenzo Gasparollo, Julien Laurendeau and Elise Dumas
+
+<img src="ChairOfBiostatisticsPicture2023.jpg" style="width:70%; border:0.1px solid; margin-right: 70 px; ; margin-left: 70 px" align="center">
+
+From left (2023): Elise Dumas, Lorenzo Gasparollo, Carole Weissenberger, Aaron Sarvet,  Amit Sawant, Matias Janvin, Julien Laurendeau and me
 
 
 <img src="ChairOfBiostatisticsPicture2022.jpg" style="width:70%; border:0.1px solid; margin-right: 70 px; ; margin-left: 70 px" align="center">

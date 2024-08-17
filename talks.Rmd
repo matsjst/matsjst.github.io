@@ -4,6 +4,12 @@ title: "Academic talks"
 
 To come: 
 
+2024 [International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2024/), Nice, France (invited talk)
+
+
+
+Previous talks:
+
 2024 [European Causal Inference Meeting](https://www.https://www.eurocim.org/), Copenhagen, Denmark (talk)
 
 
@@ -11,15 +17,10 @@ To come:
 
 2024 [International Symposium on Nonparametric Statistics](https://imstat.org/meetings-calendar/international-symposium-on-nonparametric-statistics-isnps-2024/), Braga, Portugal (Invited session)
 
-2024 [11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/), Bochum, Germany (Invited session)
+2024 [11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/), Bochum, Germany (Contributed session)
 
-
-
-
-Previous talks:
 
 2023 [Interactive Causal Learning Conference](http://interactivecausallearning.com/), 1st-2nd December, Florida, USA (talk)
-
 
 
 2023 [CEN2023 Conference](https://cen2023.github.io/home/), 3rd-7th September, Basel, Switzerland (talk)
