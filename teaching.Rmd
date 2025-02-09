@@ -8,7 +8,9 @@ I teach two full semester courses for mathematics students at EPFL, **Randomizat
 
 In September 2022 I also started teaching a course called **Causal Thinking**, which is intended for 3rd year Bsc and 1st year Msc student with different backgrounds, such as computer science, physics, biology and engineering. 
 
-I also teach a doctor course on advanced causal inference methods at EPFL. This year we will study interference. 
+Finally, I teach introductory courses in probability and statistics for students outside of the mathematics department. 
+
+I have also taught doctor courses on advanced causal inference methods at EPFL.
 
 **Previous teaching:**
 

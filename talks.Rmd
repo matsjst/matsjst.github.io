@@ -7,13 +7,16 @@ To come:
 2025 [Society for Epidemiologic Research](https://epiresearch.org/), Boston, USA (invited symposium talk)
 
 
+Previous talks:
+2025 [Spring Seminar in Biostatistics](https://dbei.med.upenn.edu/center-of-excellence/cci/events/), University of Philadelpiha, USA (invited talk)
+
+
 2024 [International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2024/), Nice, France (invited talk)
 
 2024 [TMU Seminar on Statistics and Data Science](https://www.math.cit.tum.de/en/math/research/colloquium-seminars/seminar-on-statistics-and-data-science/), Munich, Germany (invited talk)
 
 2024 [Cambridge Statistics Seminar](https://www.statslab.cam.ac.uk/seminars), Cambridge, UK (invited talk)
 
-Previous talks:
 
 2024 [European Causal Inference Meeting](https://www.https://www.eurocim.org/), Copenhagen, Denmark (talk)
 
