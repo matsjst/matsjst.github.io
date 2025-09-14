@@ -4,11 +4,20 @@ title: "Academic talks"
 
 To come: 
 
-2025 [Society for Epidemiologic Research](https://epiresearch.org/), Boston, USA (invited symposium talk)
-
 
 Previous talks:
-2025 [Spring Seminar in Biostatistics](https://dbei.med.upenn.edu/center-of-excellence/cci/events/), University of Philadelpiha, USA (invited talk)
+
+2025 [Sorbonne Center for Artificial Intelligence (SCAI)](https://scai.sorbonne-universite.fr/), Paris, France (invited talk; 25–26 August 2025)
+
+2025 [CIBB 2025 — Computational Intelligence methods for Bioinformatics and Biostatistics](https://www.bioinformatics.polimi.it/CIBB2025/), Milan, Italy (keynote; 10–12 September 2025)
+
+2025 [Einstein Circle “Causal Inference from Observational Health Data”](https://www.einsteinfoundation.de/en/fellows-projects/einstein-circle/einstein-circle-causal-inference-from), Berlin, Germany (invited talk; September 2025)
+
+2025 [Spring Seminar in Biostatistics](https://dbei.med.upenn.edu/center-of-excellence/cci/events/), University of Pennsylvania, Philadelphia, USA (invited talk)
+
+2025 [Society for Epidemiologic Research — Annual Meeting](https://epiresearch.org/annual-meeting/future-meetings/), Boston, USA (invited symposium talk; 10–13 June 2025)
+
+2025 [Harvard Chan School–Department of Epidemiology Seminar Series](https://hsph.harvard.edu/department/epidemiology/seminar-series/), Boston, USA (invited symposium talk)
 
 
 2024 [International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2024/), Nice, France (invited talk)
